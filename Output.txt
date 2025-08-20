@@ -4,6 +4,4 @@ Bedroom thermostat is now ON.
 Deactivating all smart devices...
 Living Room light is now OFF.
 Bedroom thermostat is now OFF.
-``` ✅  
-
-Would you like me to also explain 
+``` 
