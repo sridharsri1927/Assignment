@@ -1,0 +1,9 @@
+Garbage Collection Tracking Demo
+=================================
+Object 1 created
+Object 2 created
+Object 3 created
+Object 2 is being garbage collected
+Object 1 is being garbage collected
+Total objects created: 3
+Objects garbage collected: 2
