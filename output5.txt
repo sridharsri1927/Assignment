@@ -1,0 +1,13 @@
+ID | Type | Source | Destination | Depart | Arrive 
+---------------------------------------------------------------
+101 | Bus | Delhi | Agra | 07:00 | 11:00 
+102 | Train | Delhi | Jaipur | 09:00 | 13:00 
+103 | Bus | Agra | Delhi | 15:00 | 19:00 
+104 | Train | Delhi | Mumbai | 18:00 | 08:00 
+Showing all Bus schedules:
+---------------------------------------------------------------
+101 | Bus | Delhi | Agra | 07:00 | 11:00
+103 | Bus | Agra | Delhi | 15:00 | 19:00 
+Searching for route from Delhi to Jaipur:
+---------------------------------------------------------------
+102 | Train | Delhi | Jaipur | 09:00 | 13:00
